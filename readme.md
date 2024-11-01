@@ -1,3 +1,6 @@
+# Original Source:
+https://github.com/SentinelCICD/RepositoriesSampleContent
+
 # Sample Content Repository
 This repository provides samples of deployable Sentinel content as well as examples on how to use parameter files with the Sentinel Repositories CI/CD feature to help scale your deployments. For questions and feedback, please contact [SentinelEcoDevs@microsoft.com](SentinelEcoDevs@microsoft.com) 
 
